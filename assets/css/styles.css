@@ -1,0 +1,112 @@
+.no-bullet {
+  margin-left: 0;
+  list-style: none;
+  padding-inline-start: 0px;
+}
+
+.lead {
+  color: #fefefe;
+  font-size: 2rem;
+  font-family: Lobster, cursive;
+  float: right;
+  clear: both;
+  text-shadow: 2px 2px #0a0a0a;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Lobster, cursive;
+}
+
+h1 {
+  color: #fefefe;
+  font-size: 4rem;
+  margin-top: 7rem;
+  font-family: Lobster, cursive;
+  float: right;
+  text-shadow: 2px 2px #0a0a0a;
+  border-bottom: 3px solid #fefefe;
+  padding-bottom: 0.3rem;
+}
+
+.h4 {
+  padding-bottom: 1rem;
+}
+
+header {
+  height: 90vh;
+  background-image: url(/assets/img/nick-steeves-the-barber--in-action.jpg);
+  background-size: cover;
+  background-position: center top;
+}
+
+.bg-white {
+  background: #fefefe;
+  color: #0a0a0a;
+}
+
+.barber-services {
+  padding-top: 1rem;
+  padding-bottom: 1.25rem;
+}
+
+.bg-white h3 {
+  border-top: 1px solid #5c1d00;
+  padding-top: 0.75rem;
+}
+
+.bg-black {
+  background: #0a0a0a;
+  color: #fefefe;
+}
+
+.business-info {
+  padding-top: 1.25rem;
+  padding-bottom: 1rem;
+}
+
+.five-off a {
+  font-size: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+}
+
+.five-off p a {
+  font-size: 1rem;
+}
+
+.five-off h2 {
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.bg-black a {
+  color: #dad29e;
+}
+
+.bg-black a:hover {
+  color: #cbc078;
+}
+
+.bg-tan {
+  background: #dad29e;
+  color: #0a0a0a;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+footer {
+  background: #5c1d00;
+  color: #fefefe;
+  padding-top: 1.25rem;
+  padding-bottom: 1.5rem;
+}
+
+footer a {
+  color: #dad29e;
+}
+
+footer a:hover {
+  color: #cbc078;
+}
