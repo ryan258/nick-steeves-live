@@ -11,6 +11,7 @@
   float: right;
   clear: both;
   text-shadow: 2px 2px #0a0a0a;
+  margin-right: 3rem;
 }
 
 h1,
@@ -23,6 +24,7 @@ h1 {
   color: #fefefe;
   font-size: 4rem;
   margin-top: 7rem;
+  margin-right: 3rem;
   font-family: Lobster, cursive;
   float: right;
   text-shadow: 2px 2px #0a0a0a;
