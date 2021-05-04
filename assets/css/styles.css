@@ -8,10 +8,11 @@
   color: #fefefe;
   font-size: 2rem;
   font-family: Lobster, cursive;
-  float: right;
+  /*float: right;*/
+  float: left;
   clear: both;
   text-shadow: 2px 2px #0a0a0a;
-  margin-right: 3rem;
+  /*margin-right: 3rem;*/
 }
 
 h1,
@@ -24,9 +25,10 @@ h1 {
   color: #fefefe;
   font-size: 4rem;
   margin-top: 7rem;
-  margin-right: 3rem;
+  /*margin-right: 3rem;*/
   font-family: Lobster, cursive;
-  float: right;
+  /*float: right;*/
+  float: left;
   text-shadow: 2px 2px #0a0a0a;
   border-bottom: 3px solid #fefefe;
   padding-bottom: 0.3rem;
@@ -38,7 +40,8 @@ h1 {
 
 header {
   height: 90vh;
-  background-image: url(/assets/img/nick-steeves-the-barber--in-action.jpg);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,.7), rgba(0,0,0,.1)), url(/assets/img/five-points-main.jpg);
+  /* background:  url(/assets/img/five-points-main.jpg) rgba(0,0,0,1); */
   background-size: cover;
   background-position: center top;
 }
